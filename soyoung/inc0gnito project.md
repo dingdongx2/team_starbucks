@@ -20,23 +20,23 @@
 1. vmware 소프트웨어 설치
 2. 가상머신 구성(우분투 데스크톱 버전)
 
-###  ![Screen Shot 2017-04-09 at 5.21.40 PM](https://github.com/dingdongx2/team_starbucks/blob/master/img/Screen Shot 2017-04-09 at 5.21.40 PM.png)
+###  ![Screen Shot 2017-04-09 at 5.21.40 PM](https://github.com/dingdongx2/team_starbucks/blob/master/img/Screen%20Shot%202017-04-09%20at%205.21.40%20PM.png)
 
-###  ![Screen Shot 2017-04-09 at 5.22.05 PM](https://github.com/dingdongx2/team_starbucks/blob/master/img/Screen Shot 2017-04-09 at 5.22.05 PM.png)
+###  ![Screen Shot 2017-04-09 at 5.22.05 PM](https://github.com/dingdongx2/team_starbucks/blob/master/img/Screen%20Shot%202017-04-09%20at%205.22.05%20PM.png)
 
 3. 우분투 설치 ISO파일 구하기
 
 4. 가상머신에 우분투 설치
    ![](https://github.com/dingdongx2/team_starbucks/blob/master/img/Screen%20Shot%202017-04-09%20at%2010.57.24%20PM.png)
-   ![Screen Shot 2017-04-09 at 5.22.37 PM](https://github.com/dingdongx2/team_starbucks/blob/master/img/Screen Shot 2017-04-09 at 5.22.37 PM.png)
+   ![Screen Shot 2017-04-09 at 5.22.37 PM](https://github.com/dingdongx2/team_starbucks/blob/master/img/Screen%20Shot%202017-04-09%20at%205.22.37%20PM.png)
 
-   ![Screen Shot 2017-04-09 at 6.20.50 PM](https://github.com/dingdongx2/team_starbucks/blob/master/img/Screen Shot 2017-04-09 at 6.20.50 PM.png)
+   ![Screen Shot 2017-04-09 at 6.20.50 PM](https://github.com/dingdongx2/team_starbucks/blob/master/img/Screen%20Shot%202017-04-09%20at%206.20.50%20PM.png)
 
-   ![Screen Shot 2017-04-09 at 5.23.24 PM](https://github.com/dingdongx2/team_starbucks/blob/master/img/Screen Shot 2017-04-09 at 5.23.24 PM.png) 
+   ![Screen Shot 2017-04-09 at 5.23.24 PM](https://github.com/dingdongx2/team_starbucks/blob/master/img/Screen%20Shot%202017-04-09%20at%205.23.24%20PM.png) 
 
-   ![Screen Shot 2017-04-09 at 5.24.15 PM](https://github.com/dingdongx2/team_starbucks/blob/master/img/Screen Shot 2017-04-09 at 5.24.15 PM.png)
+   ![Screen Shot 2017-04-09 at 5.24.15 PM](https://github.com/dingdongx2/team_starbucks/blob/master/img/Screen%20Shot%202017-04-09%20at%205.24.15%20PM.png)
 
-   ![Screen Shot 2017-04-09 at 7.10.02 PM](https://github.com/dingdongx2/team_starbucks/blob/master/img/Screen Shot 2017-04-09 at 7.10.02 PM.png)
+   ![Screen Shot 2017-04-09 at 7.10.02 PM](https://github.com/dingdongx2/team_starbucks/blob/master/img/Screen%20Shot%202017-04-09%20at%207.10.02%20PM.png)
 
    ![Screen Shot 2017-04-09 at 10.57.24 PM](https://github.com/dingdongx2/team_starbucks/blob/master/img/Screen Shot 2017-04-09 at 10.57.24 PM.png)
 
@@ -58,7 +58,7 @@
 
    `ctrl+alt+t` : 터미널 실행
 
-   ![Screen Shot 2017-04-10 at 4.59.54 PM](https://github.com/dingdongx2/team_starbucks/blob/master/img/Screen Shot 2017-04-10 at 4.59.54 PM.png)
+   ![Screen Shot 2017-04-10 at 4.59.54 PM](https://github.com/dingdongx2/team_starbucks/blob/master/img/Screen%20Shot%202017-04-10%20at%204.59.54%20PM.png)
 
    Lock to Launcher 클릭
 
@@ -74,20 +74,20 @@
    * 혹시 이미 설치된 것이 있다면 그것 제외하고 설치가 된다
    * sudo 안쓰면 니가 수도냐고 물어본다 -.- 흥 
 
-   ![Screen Shot 2017-04-10 at 7.36.19 PM](https://github.com/dingdongx2/team_starbucks/blob/master/img/Screen Shot 2017-04-10 at 7.36.19 PM.png)
+   ![Screen Shot 2017-04-10 at 7.36.19 PM](https://github.com/dingdongx2/team_starbucks/blob/master/img/Screen%20Shot%202017-04-10%20at%207.36.19%20PM.png)
 
    <TUI(Terminal User Interface) 입력. 비밀번호 : soyoung 설정>
 
 2. wordpress.org 접속
-   ![Screen Shot 2017-04-10 at 7.40.47 PM](https://github.com/dingdongx2/team_starbucks/blob/master/img/Screen Shot 2017-04-10 at 7.40.47 PM.png)
+   ![Screen Shot 2017-04-10 at 7.40.47 PM](https://github.com/dingdongx2/team_starbucks/blob/master/img/Screen%20Shot%202017-04-10%20at%207.40.47%20PM.png)
 
    <wordpress.com되면 주옥됩니다>
 
-   ![Screen Shot 2017-04-10 at 7.41.48 PM](https://github.com/dingdongx2/team_starbucks/blob/master/img/Screen Shot 2017-04-10 at 7.41.48 PM.png)
+   ![Screen Shot 2017-04-10 at 7.41.48 PM](https://github.com/dingdongx2/team_starbucks/blob/master/img/Screen%20Shot%202017-04-10%20at%207.41.48%20PM.png)
 
    <tar.gz 다운. 리눅스에서 사용할 것이기 때문이다. 큰 상관은 없다.>
 
-   ![Screen Shot 2017-04-10 at 7.49.23 PM](https://github.com/dingdongx2/team_starbucks/blob/master/img/Screen Shot 2017-04-10 at 7.49.23 PM.png)
+   ![Screen Shot 2017-04-10 at 7.49.23 PM](https://github.com/dingdongx2/team_starbucks/blob/master/img/Screen%20Shot%202017-04-10%20at%207.49.23%20PM.png)
 
    <다운 완료!>
 
@@ -135,7 +135,7 @@
 
    이제 웹 서버에 접근하면.. (localhost에 접속)
 
-   ![Screen Shot 2017-04-10 at 8.17.04 PM](https://github.com/dingdongx2/team_starbucks/blob/master/img/Screen Shot 2017-04-10 at 8.17.04 PM.png)
+   ![Screen Shot 2017-04-10 at 8.17.04 PM](https://github.com/dingdongx2/team_starbucks/blob/master/img/Screen%20Shot%202017-04-10%20at%208.17.04%20PM.png)
 
    <web sevice main page changed>
 
@@ -168,15 +168,15 @@
 
 6. 워드프레스 설치
 
-   ![Screen Shot 2017-04-10 at 8.25.33 PM](https://github.com/dingdongx2/team_starbucks/blob/master/img/Screen Shot 2017-04-10 at 8.25.33 PM.png)
+   ![Screen Shot 2017-04-10 at 8.25.33 PM](https://github.com/dingdongx2/team_starbucks/blob/master/img/Screen%20Shot%202017-04-10%20at%208.25.33%20PM.png)
 
    <OH한글등판OH>
 
-   ![Screen Shot 2017-04-10 at 8.30.33 PM](https://github.com/dingdongx2/team_starbucks/blob/master/img/Screen Shot 2017-04-10 at 8.30.33 PM.png)
+   ![Screen Shot 2017-04-10 at 8.30.33 PM](https://github.com/dingdongx2/team_starbucks/blob/master/img/Screen%20Shot%202017-04-10%20at%208.30.33%20PM.png)
 
    <설정값! 나중에 까먹을까봐.. 여기서 사용자명은 root로 변경>
 
-   ![Screen Shot 2017-04-10 at 8.33.04 PM](https://github.com/dingdongx2/team_starbucks/blob/master/img/Screen Shot 2017-04-10 at 8.33.04 PM.png)
+   ![Screen Shot 2017-04-10 at 8.33.04 PM](https://github.com/dingdongx2/team_starbucks/blob/master/img/Screen%20Shot%202017-04-10%20at%208.33.04%20PM.png)
 
    <비밀번호는 박소영23!>
 
@@ -233,7 +233,7 @@ SQL injection 공격의 종류
 
 방법
 
-- 얻고 싶은 값의 n번째 byte code를 하나씩 찾는다 ![Screen Shot 2017-05-11 at 3.18.59 PM](https://github.com/dingdongx2/team_starbucks/blob/master/img/Screen Shot 2017-05-11 at 3.18.59 PM.png)
+- 얻고 싶은 값의 n번째 byte code를 하나씩 찾는다 ![Screen Shot 2017-05-11 at 3.18.59 PM](https://github.com/dingdongx2/team_starbucks/blob/master/img/Screen%20Shot%202017-05-11%20at%203.18.59%20PM.png)
 
   <원리 : 이진탐색>
 
