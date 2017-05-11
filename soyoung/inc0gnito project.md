@@ -37,13 +37,13 @@
 
    ![Screen Shot 2017-04-09 at 7.10.02 PM](https://github.com/dingdongx2/team_starbucks/blob/master/img/Screen%20Shot%202017-04-09%20at%207.10.02%20PM.png)
 
-   ![Screen Shot 2017-04-09 at 10.57.24 PM](https://github.com/dingdongx2/team_starbucks/blob/master/img/Screen Shot 2017-04-09 at 10.57.24 PM.png)
+   ![Screen Shot 2017-04-09 at 10.57.24 PM](https://github.com/dingdongx2/team_starbucks/blob/master/img/Screen%20Shot%202017-04-09%20at%2010.57.24%20PM.png)
 
    1차당황
 
    대처 : 일단 껐다 킨다
 
-   ![Screen Shot 2017-04-09 at 11.13.46 PM](https://github.com/dingdongx2/team_starbucks/blob/master/img/Screen Shot 2017-04-09 at 11.13.46 PM.png)
+   ![Screen Shot 2017-04-09 at 11.13.46 PM](https://github.com/dingdongx2/team_starbucks/blob/master/img/Screen%20Shot%202017-04-09%20at%2011.13.46%20PM.png)
 
    ??
 
