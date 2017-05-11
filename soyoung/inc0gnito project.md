@@ -27,7 +27,6 @@
 3. 우분투 설치 ISO파일 구하기
 
 4. 가상머신에 우분투 설치
-   ![](https://github.com/dingdongx2/team_starbucks/blob/master/img/Screen%20Shot%202017-04-09%20at%2010.57.24%20PM.png)
    ![Screen Shot 2017-04-09 at 5.22.37 PM](https://github.com/dingdongx2/team_starbucks/blob/master/img/Screen%20Shot%202017-04-09%20at%205.22.37%20PM.png)
 
    ![Screen Shot 2017-04-09 at 6.20.50 PM](https://github.com/dingdongx2/team_starbucks/blob/master/img/Screen%20Shot%202017-04-09%20at%206.20.50%20PM.png)
