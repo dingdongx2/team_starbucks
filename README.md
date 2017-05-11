@@ -1,3 +1,4 @@
+
 ## 개요
 ### 구성
 - __team name__ : team_starbucks
@@ -5,11 +6,7 @@
 - __mento__ : 최우석
 - __project name__ : wordpress를 통한 chain attack 분석 && SQL injection 응용
 
-----------
-
 ## 목차
-
-----------
 
 ## 1. SQL과 데이터베이스
 ### 1.1. 데이터베이스란?
