@@ -1,8 +1,11 @@
 - 운영체제: ubuntu 16.04 64비트 Server
 - 아이피: 192.168.0.250
 
-
-`sudo apt-get install ssh
+      ssh    해결
+      
+```
+sudo apt-get install ssh
+```
 
 sudo apt-get install vim cmake libncurses5-dev bison build-essential libreadline6-dev
 
