@@ -1,6 +1,11 @@
+# 구축 목적
+
+이 데이터베이스 구축은 워드프레스가 이 데이터베이스를 사용하도록 구성한 후 웹 해킹을 통해 내부 서버까지 침투하는 시나리오를 구성하기 위한 목적이다.
+
 - 운영체제: ubuntu 16.04 64비트 Server
 - 아이피: 192.168.0.250
 
+# 구축
 서버 버전은 복사 붙여넣기가 어려워 ssh를 설치하고, putty와 같은 원격 접속을 이용하여 이 문제를 해결
 ```
 sudo apt-get install ssh
@@ -83,5 +88,5 @@ sudo ln -s /usr/local/mysql/bin/* /usr/local/bin/
 sudo pkill mysql
 sudo service mysql start
 ```
-참고 사이트
+# 참고 사이트
 - http://m.todayhumor.co.kr/view.php?table=total&no=7450281
