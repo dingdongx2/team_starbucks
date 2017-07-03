@@ -1,3 +1,8 @@
+# 번외
+아파치와 PHP 설치
+```
+sudo apt-get install apache2 php7.0 php-pear libapache2-mod-php7.0 php7.0-mysql
+```
 # 구축 목적
 
 이 데이터베이스 구축은 워드프레스가 이 데이터베이스를 사용하도록 구성한 후 웹 해킹을 통해 내부 서버까지 침투하는 시나리오를 구성하기 위한 목적이다.
